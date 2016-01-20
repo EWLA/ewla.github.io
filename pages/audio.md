@@ -39,9 +39,9 @@ At this point the connections for the snake are as follows:
 
 We have three active mix channels:
 
-* The house - left/right speakers plugged into output channels 1 & 2 of the snake
-* The front monitors - plugged into output channel 3 of the snake
-* The back monitors - plugged into output channel 4 of the snake
+* **House:** left/right speakers plugged into output channels 1 & 2 of the snake
+* **Front monitors:** plugged into output channel 3 of the snake
+* **Back monitors:** plugged into output channel 4 of the snake
 
 ### House Mix
 
@@ -95,5 +95,5 @@ Shutting the mixer down requires a proper power off before pushing the power but
 
 Wireless mics should be all setup for use. Check batteries before servicei and change as needed (Handheld will show battery level, lapel will flash the light when low). Do not mess with channel settings, they are currently locked in. If you need to modify channels (or fix them) for any reason, see below:
 
-* Handheld Mic: J9 is the receiver channel, 612 is the handset channel.
-* Lapel Mic: This can auto-pair with the reciever. See Lawrence for pairing instructions until we can get them here (need more clarity on steps).
+* **Handheld Mic:** J9 is the receiver channel, 612 is the handset channel.
+* **Lapel Mic:** This can auto-pair with the reciever. See Lawrence for pairing instructions until we can get them here (need more clarity on steps).
