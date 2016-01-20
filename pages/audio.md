@@ -45,7 +45,7 @@ We have three active mix channels:
 
 ### House Mix
 
-To balance the house mix, press the LR button on the right side of the mixer.
+To balance the house mix, press the LR button on the right side of the mixer. ([Image](uploads/images/IMG_0900.JPG))
 
 All faders will transition into the current mix for the house. Mute buttons should mute for all mixes.
 
@@ -55,7 +55,7 @@ Make adjustments as normal. Adjustments to gain, pan, and compressor are covered
 
 ### Monitor Mix
 
-To balance the monitor mix, press the Mix 1 (front monitors) or Mix 2 (back monitor) button on the right side of the mixer.
+To balance the monitor mix, press the Mix 1 (front monitors - [Image](uploads/images/IMG_0901.JPG)) or Mix 2 (back monitor - [Image](uploads/images/IMG_0902.JPG)) button on the right side of the mixer.
 
 All faders will transition into the current mix for the selected monitor mix. Mute buttons should mute for all mixes.
 
