@@ -24,10 +24,14 @@
 [Audio]()
 
   * [Setup](pages/audio.md#Setup)
+  * [Mixes & Monitors](pages/audio.md#Mixes&_Monitors)
   * [Balancing](pages/audio.md#Balancing)
-  * [Monitors](pages/audio.md#Monitors)
   * [Channel Memory](pages/audio.md#Channel_Memory)
   * [Recording](pages/audio.md#Recording)
+  * [Playback](pages/audio.md#Playback)
+  * [Shutdown](pages/audio.md#Shutdown)
+  - - - -
+  * [Wireless Mics](pages/audio.md#Wireless_Mics)
 
 [Video](pages/video.md)
 [Lights](pages/lights.md)
