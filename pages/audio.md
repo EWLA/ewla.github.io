@@ -93,3 +93,7 @@ Shutting the mixer down requires a proper power off before pushing the power but
 
 ## Wireless Mics
 
+Wireless mics should be all setup for use. Check batteries before servicei and change as needed (Handheld will show battery level, lapel will flash the light when low). Do not mess with channel settings, they are currently locked in. If you need to modify channels (or fix them) for any reason, see below:
+
+* Handheld Mic: J9 is the receiver channel, 612 is the handset channel.
+* Lapel Mic: This can auto-pair with the reciever. See Lawrence for pairing instructions until we can get them here (need more clarity on steps).
