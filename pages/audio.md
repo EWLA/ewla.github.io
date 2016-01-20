@@ -44,7 +44,7 @@ At this point the connections for the snake are as follows:
 ## Shutdown
 Shutting the mixer down requires a proper power off before pushing the power button.
 
-1. From the home screen, select Shut Down ([Image](uploads/images/IMG_0939.JPG))
-1. Select Yes from the modal dialog ([Image](uploads/images/IMG_0940.JPG))
+1. From the home screen, select `Shut Down` ([Image](uploads/images/IMG_0939.JPG))
+1. Select `Yes` from the modal dialog ([Image](uploads/images/IMG_0940.JPG))
 1. Wait for confirmation screen ([Image](uploads/images/IMG_0941.JPG))
 1. Power off board with button on back side of the mixer, bottom right.
