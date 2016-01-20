@@ -3,7 +3,7 @@
   -- Do NOT remove the leading `#` character.
   -->
 
-# Your wiki name
+# A/V Manual
 
 
 <!--
@@ -11,7 +11,7 @@
   -- (Read: http://dynalon.github.io/mdwiki/#!customizing.md#Theme_chooser)
   -->
 
-[gimmick:theme](spacelab)
+[gimmick:theme](flatly)
 
 
 <!--
@@ -19,8 +19,18 @@
   -- (Read: http://dynalon.github.io/mdwiki/#!quickstart.md#Adding_a_navigation)
   -->
 
-[About](pages/about.md)
-[Download](pages/download.md)
+[Planning Center](pages/planning-center.md)
+[General Setup](pages/general-setup.md)
+[Audio]()
+
+  * [Setup](pages/audio.md#Setup)
+  * [Balancing](pages/audio.md#Balancing)
+  * [Monitors](pages/audio.md#Monitors)
+  * [Channel Memory](pages/audio.md#Channel_Memory)
+  * [Recording](pages/audio.md#Recording)
+
+[Video](pages/video.md)
+[Lights](pages/lights.md)
 
 <!-- A more complex navigation example: ----------------------------------------
 
@@ -41,25 +51,3 @@
 [Menu Item 3](pages/item3.md)
 
 ---------------------------------------------------------------------------- -->
-
-<!--
-  -- Change the Language
-  -- Could be useful when there's more than one language wiki.
-  -->
-
-<!--
-[Change the Language]()
-
-  * [English (United States)](/en_US/)
-  * [English (United Kingdom)](/en_GB/)
-  * [Italian](/it/)
--->
-
-<!--
-  -- Let the user choose a theme
-  -- (Read: http://dynalon.github.io/mdwiki/#!quickstart.md#Adding_a_navigation)
-  -->
-
-<!--
-[gimmick:themechooser](Choose theme)
--->

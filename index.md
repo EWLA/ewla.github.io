@@ -1,13 +1,12 @@
-# It works! ;-)
+## Epicentre West LA A/V Guide
 
+This wiki is a reference guide for setup and operation of equipment used in Sunday services. Don't hesitate to contact Jared Sartin if you have questions or problems.
 
-## Section 1
+Use the menu or the index below to learn more about setting up and running a service.
 
-Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Cras mattis consectetur purus sit amet fermentum. Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Sed posuere consectetur est at lobortis.
-
-
-## Section 2
-
-Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Donec ullamcorper nulla non metus auctor fringilla. Cras mattis consectetur purus sit amet fermentum. Donec ullamcorper nulla non metus auctor fringilla. Cras justo odio, dapibus ac facilisis in, egestas eget quam.
-
-Vestibulum id ligula porta felis euismod semper. Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante venenatis dapibus posuere velit aliquet.
+### Index
+- [Planning Center](pages/planning-center.md)
+- [General Setup](pages/general-setup.md)
+- [Audio](pages/audio.md)
+- [Video](pages/video.md)
+- [Lights](pages/lights.md)
