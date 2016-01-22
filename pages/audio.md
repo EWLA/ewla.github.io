@@ -117,6 +117,9 @@ Resetting is great to get a base for the week and to clear out any balances that
 1. See the new settings reflected ([Image](uploads/images/IMG_0928.JPG))
 
 ### Storing
+
+For balances we will have frequently or are incredibly tricky to get, we will store them away for use layer. Typically, this won't be very often.
+
 1. Select the channel you want to save settings of ([Image](uploads/images/IMG_0910.JPG))
 1. Select the library (with the FN button) ([Image](uploads/images/IMG_0912.JPG))
 1. Select the `Store New` button in the bottom of the channel library ([Image](uploads/images/IMG_0916.JPG))
