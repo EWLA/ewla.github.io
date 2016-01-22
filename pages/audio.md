@@ -63,7 +63,65 @@ Make adjustments (including overall level control with master fader) as the band
 
 ## Balancing
 
+Balancing is now done digitally and is simple. Follow the steps below to balance. See the [Channel Memory](pages/audio.md#Channel_Memory) section for restoring defaults!
+
+### Basics
+
+1. Press the select button for the channel you want to balance
+1. Press Processing on the screen selection buttons
+    * Gain is now able to be adjusted (top left, in the preamp section)
+    * You can now adjust the EQ from the Parametric EQ knobs
+    * Gate and compression are available to adjust as well (Don't touch if unsure!)
+    * You can touch the top graphs and bars to get more adjustments in each section.
+1. Basic adjustments can be done by using the bottom row of the Parametric EQ. Left to right:
+    * Lows
+    * Mid-Lows
+    * Mid-Highs
+    * Highs
+
+**Note:** The graph representation shows boosting and subracting of balance. If the balance is below the mid-line, you are reducing the gain of that spectrum, above the line is boosting the gain.
+
+### Parametric EQ
+
+We now have 4 adjustable points of balance. You can see the wave representation on the screen as you dial in the knobs. Not only can you adjust the gain, but you can adjust where in the spectrum it affects, and the width of the spectrum to affect. This is very detailed AND very powerful if used correctly.
+
 ## Channel Memory
+
+Channel memory is now available! We can recall (and store) tricky balances.
+
+### Recalling
+
+Recalling balances for the wireless setups and Alissa are things we should do weekly!
+
+1. Select the channel you want to recall settings on ([Image](uploads/images/IMG_0910.JPG))
+1. Select the library (with the FN button) ([Image](uploads/images/IMG_0912.JPG))
+1. Select User ([Image](uploads/images/IMG_0914.JPG))
+1. Verify `Recall Preamp` is `On` ([Image](uploads/images/IMG_0916.JPG))
+1. Select the preset to recall: ([Image](uploads/images/IMG_0916.JPG))
+    * Alissa is Alissa's balance
+    * Handheld is for the handheld mic
+    * PLawHS is for Lawrence's mic on the lapel (drastically different balance from the church's mic)
+1. Select recall ([Image](uploads/images/IMG_0918.JPG))
+1. See the new settings reflected ([Image](uploads/images/IMG_0920.JPG))
+
+### Resetting
+
+Resetting is great to get a base for the week and to clear out any balances that are not needed. We will just recall a basic Mic setup:
+
+1. Select the channel you want to recall settings on ([Image](uploads/images/IMG_0910.JPG))
+1. Select the library (with the FN button) ([Image](uploads/images/IMG_0912.JPG))
+1. Select Factory ([Image](uploads/images/IMG_0922.JPG))
+1. Verify `Recall Preamp` is `On` ([Image](uploads/images/IMG_0924.JPG))
+1. Select the `:Mic` preset ([Image](uploads/images/IMG_0924.JPG))
+1. Select recall ([Image](uploads/images/IMG_0926.JPG))
+1. See the new settings reflected ([Image](uploads/images/IMG_0928.JPG))
+
+### Storing
+1. Select the channel you want to save settings of ([Image](uploads/images/IMG_0910.JPG))
+1. Select the library (with the FN button) ([Image](uploads/images/IMG_0912.JPG))
+1. Select the `Store New` button in the bottom of the channel library ([Image](uploads/images/IMG_0916.JPG))
+1. Enter a name for the settings
+1. Save
 
 ## Recording
 
@@ -81,6 +139,12 @@ Recording is now done with direct USB recording from the mixer. Lawrence will ha
 
 
 ## Playback
+
+Playback will eventually be USB directly to the mixer - for now we still use the USB sound card. Plug a 3.5mm male-to-male cord into the headphone slot of the sound card and into the ST3 plug on the top right of the sound board.
+
+(unconfirmed) To balance, press the button on the left, just below the word layers. The faders will move to the balance of each mix. Slide the ST3 fader up.
+
+**Warning:** To get back to the channel balancing, press the button below the Layers button, on the same row as the channel names.
 
 ## Shutdown
 
