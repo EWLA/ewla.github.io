@@ -145,9 +145,9 @@ Recording is now done with direct USB recording from the mixer. Lawrence will ha
 
 Playback will eventually be USB directly to the mixer - for now we still use the USB sound card. Plug a 3.5mm male-to-male cord into the headphone slot of the sound card and into the ST3 plug on the top right of the sound board.
 
-(unconfirmed) To balance, press the button on the left, just below the word layers. The faders will move to the balance of each mix. Slide the ST3 fader up.
+To change volume of cimputer audio, press the button on the left, just below the word layers. The faders will move to the balance of each mix. Slide the ST3 fader up.
 
-**Warning:** To get back to the channel balancing, press the button below the Layers button, on the same row as the channel names.
+**Warning:** To get back to the channel levels, press the button below the Layers button, on the same row as the channel names.
 
 ## Shutdown
 
