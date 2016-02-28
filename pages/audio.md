@@ -40,8 +40,9 @@ At this point the connections for the snake are as follows:
 We have three active mix channels:
 
 * **House:** left/right speakers plugged into output channels 1 & 2 of the snake
-* **Front monitors:** plugged into output channel 3 of the snake
-* **Back monitors:** plugged into output channel 4 of the snake
+* **Lead IEM:** plugged into output channel 3 of the snake
+* **Front monitors:** plugged into output channel 4 of the snake
+* * **Drum IEM:** plugged into output channel 5 of the snake
 
 ### House Mix
 
@@ -55,7 +56,7 @@ Make adjustments as normal. Adjustments to gain, pan, and compressor are covered
 
 ### Monitor Mix
 
-To balance the monitor mix, press the Mix 1 (front monitors - [Image](uploads/images/IMG_0901.JPG)) or Mix 2 (back monitor - [Image](uploads/images/IMG_0902.JPG)) button on the right side of the mixer.
+To balance the monitor mix, press the Mix 1 (Lead IEM - [Image](uploads/images/IMG_0901.JPG)) or Mix 2 (Front Monitors - [Image](uploads/images/IMG_0902.JPG)) or Mix 3 (Drum IEM) button on the right side of the mixer.
 
 All faders will transition into the current mix for the selected monitor mix. Mute buttons should mute for all mixes.
 
@@ -162,5 +163,5 @@ Shutting the mixer down requires a proper power off before pushing the power but
 
 Wireless mics should be all setup for use. Check batteries before servicei and change as needed (Handheld will show battery level, lapel will flash the light when low). Do not mess with channel settings, they are currently locked in. If you need to modify channels (or fix them) for any reason, see below:
 
-* **Handheld Mic:** J9 is the receiver channel, 612 is the handset channel.
-* **Lapel Mic:** This can auto-pair with the reciever. See Lawrence for pairing instructions until we can get them here (need more clarity on steps).
+* **Handheld Mic:** J9 is the receiver channel, 612 is the handset channel. This plugs into input 15 on the snake.
+* **Lapel Mic:** This can auto-pair with the reciever. See Lawrence for pairing instructions until we can get them here (need more clarity on steps). This plugs into input 16 on the snake - has a sticky note on it mentioning channel 12 (from old board).
