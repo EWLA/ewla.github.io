@@ -38,7 +38,7 @@ Each week we build a service playlist. Take a look at past playlists and see how
 1. Drag song into the right half of the playlist panel or [import a song](pages/video.md#Song_Import) if it is not found.
 1. Repeat for all songs, as well as announcements and offering cues.
 1. Choose a countdown from the bottom center panels. Countdowns are in the top folder labeled countdowns. Drag it to the top of the playlist.
-1. [Import the PPT](pages/video.md#PPT_Import) from Lawrence.
+1. [Import the PPT](video.md#PPT_Import) from Lawrence.
 1. Remove USB drive and give to audio tech for recording.
 1. Choose one of the folders of backgrounds to use during worship. If you are unsure, City Bokeh is a good one. Leave that folder open.
 

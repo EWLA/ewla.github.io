@@ -46,7 +46,7 @@ To balance the house mix, press the LR button on the right side of the mixer. ([
 
 All faders will transition into the current mix for the house. Mute buttons should mute for all mixes.
 
-Make adjustments as normal. Adjustments to gain, pan, and compressor are covered in the [Balancing](pages/audio.md#Balancing) section of the docs.
+Make adjustments as normal. Adjustments to gain, pan, and compressor are covered in the [Balancing](audio.md#Balancing) section of the docs.
 
 **Note:** We keep channel 15 and 16 un-muted during service and allow the speaker and MC to mute themselves when they are not talking.
 
