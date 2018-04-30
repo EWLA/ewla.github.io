@@ -23,15 +23,14 @@
 [General Setup](pages/general-setup.md)
 [Audio]()
 
-  * [Setup](pages/audio.md#Setup)
-  * [Mixes & Monitors](pages/audio.md#Mixes&_Monitors)
-  * [Balancing](pages/audio.md#Balancing)
-  * [Channel Memory](pages/audio.md#Channel_Memory)
-  * [Recording](pages/audio.md#Recording)
-  * [Playback](pages/audio.md#Playback)
-  * [Shutdown](pages/audio.md#Shutdown)
+  - [Setup Basics](pages/audio.md#Setup_Basics)
+  - [Mixes & Monitors](pages/audio.md#Mixes_&_Monitors)
+  - [Recording](pages/audio.md#Recording)
+  - [Shutdown](pages/audio.md#Shutdown)
+  - [Wireless Mics](pages/audio.md#Wireless_Mics)
   - - - -
-  * [Wireless Mics](pages/audio.md#Wireless_Mics)
+  - [Balancing](pages/audio.md#Balancing)
+  - [Channel Memory](pages/audio.md#Channel_Memory)
 
 [Video](pages/video.md)
 [Lights](pages/lights.md)
