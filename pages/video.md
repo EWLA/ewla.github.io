@@ -18,7 +18,6 @@ TVs will be mounted on either side of the stage. HDMI cables will be run to the 
 
 ## ProPresenter 6
 
-
 ### Launch
 
 Once TVs and computer are set up, launch ProPresenter. If you are met with a black screen on the computer, follow the steps below:
